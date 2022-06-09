@@ -1,4 +1,4 @@
-# Mii-Default-Checker
+# Mii Default Moment Checker
 Hello! Do you want to improve at Mii-making? One of the first things you can do is play with all the different sliders in order to make unique characters. All too often, people barely use the sliders, resulting in very similar-looking and boring designs. Those of us in the Miitopia Discord server have affectionately referred to these kinds of designs as "Default Moments." This here is a program I have written that will tell you whether or not a mii is a "Default Moment."  
 
 By Lewinham
