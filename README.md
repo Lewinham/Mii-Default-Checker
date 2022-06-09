@@ -12,3 +12,7 @@ _________________________________________
 ### 4. The program will return a Default Moment Index and tell you whether or not your mii is a "Default Moment."
 ###### An index of 0 corresponds to the default male/female mii.
 ###### The higher the index, the less of a default moment your mii is.
+_________________________________________
+# Program Code:
+###### Code by Lewinham
+###### Written in Python 3
