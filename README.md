@@ -1,8 +1,5 @@
 # Mii Default Moment Checker
 Hello! Do you want to improve at Mii-making? One of the first things you can do is play with all the different sliders in order to make unique characters. All too often, people barely use the sliders, resulting in very similar-looking and boring designs. Those of us in the Miitopia Discord server have affectionately referred to these kinds of designs as "Default Moments." This here is a program I have written that will tell you whether or not a mii is a "Default Moment."  
-
-##### By Lewinham
-###### Special thanks to BH for helping with determining weights for the different sliders.
 _________________________________________
 # What You Need & How to Use:
 ### 1. You need to download Python 3 and an IDE (PyCharm, Google Colaboratory, etc.)
@@ -196,3 +193,4 @@ if default_index < 0.75:
 else:
     print("Nice! Your mii is not a default moment!")
 ```
+#### Special thanks to BH for helping with determining weights for the different sliders.
