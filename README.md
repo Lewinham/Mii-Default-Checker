@@ -3,10 +3,10 @@ Hello! Do you want to improve at Mii-making? One of the first things you can do 
 _________________________________________
 # What You Need & How to Use:
 ### 1. You need to download the executable file, Mii_default_checker.exe.
-### 3. Run the executable file and input the slider values for your mii.
+### 2. Run the executable file and input the slider values for your mii.
 ###### The default position of any slider corresponds to a value of 0. 
 ###### The number of ticks away from the default position of the slider is the value you will input.
-### 4. The program will return a Default Moment Index and tell you whether or not your mii is a "Default Moment."
+### 3. The program will return a Default Moment Index and tell you whether or not your mii is a "Default Moment."
 ###### An index of 0 corresponds to the default male/female mii.
 ###### The higher the index, the less of a default moment your mii is.
 _________________________________________
