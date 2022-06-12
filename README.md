@@ -16,7 +16,7 @@ _________________________________________
 # How the Program Works:
 ###### Code by Lewinham
 ###### Written in Python 3
-###### Version 1.0
+###### Version 1.1
 The program works by taking a weighted average of all of the inputs. The weights were determined based on the relative importance of each slider in preventing miis from having the "default" aesthetic.
 ## Code:
 ```
@@ -207,3 +207,9 @@ while quit_program == False:
         quit_program = True
 ```
 #### Special thanks to BH for helping with determining weights for the different sliders.
+
+## Version History
+#### Version 1.1
+ - Allowed the program to keep running properly if no valid inputs were entered.
+ - Enabled the user to evaluate as many miis as they like without having to keep rerunning the program.
+
